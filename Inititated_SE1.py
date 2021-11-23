@@ -1,4 +1,4 @@
-# By Sank
+# By Sank calculating the area of the circle by taking radius as user input
 import math 
 #importing Math module to use pi in this specific program. 
 r = float(input("Enter R"))
